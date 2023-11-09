@@ -1,5 +1,5 @@
-# songchen.github.io
-Song Chen's homepage
+# xuzhang.github.io
+Xu Zhang's homepage
 
 [![LICENSE](https://img.shields.io/github/license/yaoyao-liu/minimal-light?style=flat-square&logo=creative-commons&color=EF9421)](https://github.com/yaoyao-liu/yaoyao-liu.github.io/blob/main/LICENSE)
 
@@ -41,3 +41,5 @@ This project uses the source code from the following repositories:
 * [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io)
 
 * [yaoyao-liu homepage](https://github.com/yaoyao-liu/yaoyao-liu.github.io)
+
+* [song-chen homepage](https://xuzhang.science/)

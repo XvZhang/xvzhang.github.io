@@ -4,35 +4,25 @@ layout: homepage
 
 <h1 id="about-me"></h1>
 
-<h2 style="margin: 60px 0px 10px;">Short Bio</h2>
+<h2 style="margin: 60px 0px 10px;">Biography</h2>
 
-I am currently a Physics Ph.D. candidate at [Spin-Ion Technologies](https://www.spin-ion.com/) and [Université Paris-Saclay](https://www.universite-paris-saclay.fr/), working under the mentorship of Dr. [Ravelosona dafiné](https://www.spin-ion.com/about-us/), the director of research [CNRS](https://www.cnrs.fr/fr) and CTO of [Spin-Ion Technologies](https://www.spin-ion.com/). My research involves magnetoelectric ("ME") materials for energy-efficient information technology and "ME" materials for data security in information technology using Multiferroics/Magneto-ionics/Surface charging, with a special focus on the boosting magneto-ionic effect using ion irradiation and implantation.
-## Research Interest:
-- **Ion-material Simulation:** SRIM, iradina, IMSIL, CORETO, TRIDYN, MARLOWE, RustBCA
-- **Machine Learning:** fairness AI, penalization and augmentation methods
-- **E-field controlled magnetization** VCMA, Strain-mediated ME (Magnetoelectric) Effects, Straintronic, iontronic, E-filed induced spin reorientation, SOT.
-- **Micro-, Nanofabrication**
-- **Neuromorphic Computing** Neuromorphic Sensing and Perception, Hybrid Computing Systems, Brain-Inspired Robotics
+I am Xu Zhang, a CS student at the University of Hong Kong. My supervisors are [Professor Hing-Fung Ting](https://www.cs.hku.hk/people/academic-staff/hfting) and [Professor Tak-Wah Lam](https://www.cs.hku.hk/people/academic-staff/twlam).
+
+Prior to that, I was very lucky to work with [Professor Chu-Xia Deng](https://fhs.um.edu.mo/en/staff/chuxia-deng/) at University of Macau as a research assistant on Cancer Informatics.
+
+I received B.S. in Biology Science from Shanxi Agricultural University.
+
+My research interests lie in Machine Learning, Multi-omics, Cancer Bioinformatics, and Single Cell Sequencing.
+
 {% include_relative _includes/news.md %}
 
 {% include_relative _includes/projects.md %}
 
-{% include_relative _includes/publications.md %}
-
-{% include_relative _includes/conference.md %}
-
-{% include_relative _includes/contact.md %}
-<!-- <strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I am currently on the 2023-2024 academic job market, looking for faculty positions in CS, CSE, ECE, IEOR, etc., related to Artificial Intelligence, Computer Vision, and Machine Learning. Please feel free to contact me if you are interested. I am also happy to give talks on my research in related seminars.</strong></strong> -->
-
-
-<!-- 
-{% include_relative _includes/publications.md %}
-
 {% include_relative _includes/teaching.md %}
 
-{% include_relative _includes/talks.md %}
+{% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+{% include_relative _includes/honors.md %}
 
+{% include_relative _includes/contact.md %}
 
- -->
