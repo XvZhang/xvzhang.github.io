@@ -1,33 +1,60 @@
 main:
+  - title: "MulMarker: a GPT-assisted comprehensive framework for identifying potential multi-gene prognostic signatures"
+    authors: "<strong>Xu Zhang</strong>, Lei Chen"
+    conference: "2023 International Conference on Bioinformatics and Biomedicine (BIBM)"
+    pdf: "./assets/files/multi.pdf"
+    notes: "Accepted"
 
-  - title: Multi-target electrochemical malaria aptasensor on flexible multielectrode arrays for detection in malaria parasite blood samples
-    authors: Gabriela Figueroa-Miranda, <strong>Song Chen</strong>, Marc Neis, Lei Zhou, Yuting Zhang, Young Lo, Julian Alexander Tanner, Andrea Kreidenweiss, Andreas Offenhäusser, Dirk Mayer
-    conference_short: Sens. Actuators B Chem.
-    conference: Sensors and Actuators B Chemical
-    pdf: ./assets/files/multi.pdf
-    page: https://www.sciencedirect.com/science/article/abs/pii/S0925400521013800?via%3Dihub
-    bibtex: ./assets/files/multi.txt
-    image: ./assets/files/multi.jpg
-    notes: Published
-
-  - title: Magneto‐Ionics in Annealed W/CoFeB/HfO2 Thin Films
-    authors: Rohit Pachat, Djoudi Ourdani, Maria‐andromachi Syskaki, Alessio Lamperti, Subhajit Roy, <strong>Song Chen</strong>, Adriano Di Pietro, Ludovic Largeau, Roméo Juge, Maryam Massouras, Cristina Balan, Johannes Wilhelmus van der Jagt, Guillaume Agnus, Yves Roussigné, Mihai Gabor, Salim Mourad Chérif, Gianfranco Durin, Shimpei Ono, Jürgen Langer, Damien Querlioz, Dafiné Ravelosona, Mohamed Belmeguenai, Liza Herrera Diez
-    conference_short: Adv. Mater. Interfaces
-    conference: Advanced Materials Interfaces
-    pdf: https://onlinelibrary.wiley.com/doi/pdf/10.1002/admi.202200690
-    page: https://www.sciencedirect.com/science/article/abs/pii/S0925400521013800?via%3Dihub
-    bibtex: ./assets/files/magnetoionic.txt
-    image: ./assets/files/admi202270196-gra-0001-m.jpg
-    notes: Published
-
-  - title: Flexible multielectrode arrays based electrochemical aptasensor for glycated human serum albumin detection
-    authors: Lei Zhou, Gabriela Figueroa-Miranda, <strong>Song Chen</strong>, Marc Neis, Ziheng Hu, Ruifeng Zhu, Yaqi Li, Michael Prömpers, Andreas Offenhäusser, Dirk Mayer
-    conference_short: Sens. Actuators B Chem.
-    conference: Sensors and Actuators B Chemical
-    pdf: ./assets/files/SSRN-id4328224.pdf
-    page: https://www.sciencedirect.com/science/article/abs/pii/S0925400523004458
-    bibtex: ./assets/files/flexible.txt
-    image: ./assets/files/1-s2.0-S0925400523004458-ga1_lrg.jpg
-    notes: Published
-
-  
+  - title: "Genome instability-derived genes as a novel prognostic signature for lung adenocarcinoma"
+    authors: "<strong>Xu Zhang</strong>, Tak-Wah Lam, Hing-Fung Ting"
+    conference: "Frontiers in Cell and Developmental Biology"
+    pdf: "./assets/files/gein.pdf"
+    notes: ""
+    
+  - title: "Patient-Derived Organoids Can Guide Personalized-Therapies for Patients with Advanced Breast Cancer"
+    authors: "Ping Chen, <strong>Xu Zhang</strong>, Renbo Ding, Linglin Yang, Xueying Lyu, Jianming Zeng, Josh Haipeng Lei, Lijian Wang, Jiong Bi, Nan Shao, Ditian Shu, Bin Wu, Jingbo Wu, Zhihui Yang, Haiyan Wang, Biqiong Wang, Kang Xiong, Yun Lu, Shaozhi Fu,Tak Kan Choi, Ng Wai Lon, Aiping Zhang, Dongyang Tang, Yingyao Quan, Ya Meng,Kai Miao, Heng Sun, Ming Zhao, Jiaolin Bao, Lei Zhang, Xiaoling Xu, Yanxia Shi, Ying Lin, Chuxia Deng"
+    conference: "Advanced Science"
+    pdf: "./assets/files/organoids.pdf"
+    notes: ""
+    
+  - title: "Establishment and Biological Characteristics Analysis of Fibroblast Cell Line of Guangling Donkey"
+    authors: "<strong>Xu Zhang</strong>, Baoyu Le, Zhimin Cheng, Ningfang Zhang, Wanfeng Zhang, Yulong Guo, Zejun Liu, Mingqi Cai, Qiqi Zhang, Pengfei Gao, Xiaohong Guo, Bugao Li, Guoqing Cao"
+    conference: "China Animal Husbandry & Veterinary Medicine"
+    pdf: "./assets/files/cellCulture.pdf"
+    notes: ""
+    
+  - title: "S100A9-CXCL12 activation in BRCA1-mutant breast cancer promotes an immunosuppressive microenvironment associated with resistance to immunotherapy"
+    authors: "Jianjie Li, Xiaodong Shu, Jun Xu, Sek Man Su, Un In Chan, Lihua Mo, Jianlin Liu, Xin Zhang, Ragini Adhav, Qiang Chen, Yuqing Wang, Tingting An, <strong>Xu Zhang</strong>, Xueying Lyu, Xiaoling Li, Josh Haipeng Lei, Kai Miao, Heng Sun, Fuqiang Xing, Aiping Zhang, Chuxia Deng, Xiaoling Xu"
+    conference: "Nature Communications"
+    pdf: "./assets/files/S100A9-CXCL12.pdf"
+    notes: ""
+    
+  - title: "Dissecting the heterogeneity and tumorigenesis of BRCA1 deficient mammary tumors via single cell RNA sequencing"
+    authors: Heng Sun, Jianming Zeng, Zhengqiang Miao, Kuan Cheok Lei, Chen Huang, Lingling Hu, Sek Man Su, Un In Chan, Kai Miao, <strong>Xu Zhang</strong>, Aiping Zhang, Sen Guo, Si Chen, Ya Meng, Min Deng, Wenhui Hao, Haipeng Lei, Ying Lin, Zhonglin Yang, Dongjiang Tang, Koon Ho Wong, Xiaohua Douglas Zhang, Xiaoling Xu, Chu-Xia Deng
+    conference: "Theranostics"
+    pdf: "./assets/files/HengSun.pdf"
+    notes: ""
+    
+  - title: "Upregulation of amplified in breast cancer 1 contributes to pancreatic ductal adenocarcinoma progression and vulnerability to blockage of hedgehog activation"
+    authors: Licen Li, Jiaolin Bao, Haitao Wang, Josh Haipeng Lei, Cheng Peng, Jianming Zeng, Wenhui Hao, <strong>Xu Zhang</strong>, Xiaoling Xu, Chundong Yu, Chu-Xia Deng, Qiang Chen
+    conference: "Advanced Science"
+    pdf: "./assets/files/Licen.pdf"
+    notes: ""
+    
+  - title: "Enhanced Protein Damage Clearance Induces Broad Drug  Resistance in Multitype of Cancers Revealed by an Evolution Drug-Resistant Model and Genome-Wide siRNA Screening"    
+    authors: Fangyuan Shao, Xueying Lyu, Kai Miao, Lisi Xie, Haitao Wang, Hao Xiao, Jie Li, Qiang Chen, Renbo Ding, Ping Chen, Fuqiang Xing, <strong>Xu Zhang</strong>, Guang-Hui Luo,Wenli Zhu, Gregory Cheng, Ng Wai Lon, Scott E. Martin, Guanyu Wang, Guokai Chen, Yunlu Dai, Chu-Xia Deng
+    conference: "Advanced Science"
+    pdf: "./assets/files/Fangyuan.pdf"
+    notes: ""
+    
+  - title: "Characterization of BRCA1-defificient premalignant tissues and cancers identififies Plekha5 as a tumor metastasis suppressor"
+    authors: Jianlin Liu, Ragini Adhav, Kai Miao, Sek Man Su, Lihua Mo, Un In Chan, Xin Zhang, Jun Xu, Jianjie Li, Xiaodong Shu, Jianming Zeng, <strong>Xu Zhang</strong>, Xueying Lyu, Lakhansing Pardeshi, Kaeling Tan, Heng Sun, Koon Ho Wong, Chuxia Deng, Xiaoling Xu
+    conference: "Nature Communications"
+    pdf: "./assets/files/Jianlin.pdf"
+    notes: ""
+    
+  - title: "A novel matched-pairs feature selection method considering with tumor purity for differential gene expression analyses"
+    authors: Sen Liang, Sen Yang, Dayang Liang, Jiechao Ma, Yuan Tian, Jing Zhao, <strong>Xu Zhang</strong>, Ying Xu, Yan Wang
+    conference: "Mathematical Biosciences"
+    pdf: "./assets/files/SenLiang.pdf"
+    notes: ""

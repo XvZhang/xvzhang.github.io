@@ -1,12 +1,35 @@
 main:
+  - title: "MPhil Student"
+    school: "The University of Hong Kong"
+    dates: "Sep 2021 - Present"
+    projects:
+      - "Developed a framework to identify potential multi-gene prognostic biomarkers"
+      - "Identified a prognostic signature related to genome instability for lung adenocarcinoma patients"
 
-  - title: AutoVA - Automated VCMA & AHE Measurement System
-    authors: Song Chen
-    project_short: Software
-    project: The software is used to 1. control the E-field applied for the VCMA/Magnetoelectric coupling; 2. to control the elctromagnetic field; 3. to control the SMU to apply one bias current ,and meanwhile measuring the Hall voltage. All the parameters can be set correspondingly and sequencer can be made to realize the automation.
-    pdf: ./assets/files/AutoVA.pdf
-    web: 
-    image: ./assets/img/autova.png
-    notes: Non-Open Source
+  - title: "Research Assistant"
+    school: "University of Macau"
+    dates: "Jan 2019 - Jun 2021"
+    projects:
+      - "Investigated divergent drug response in breast cancer, liver cancer and colon cancer"
+      - "Investigated the mechanism of PARPi resistance in BRCA1-deficient mouse models using single-cell analysis"
+      - "Explored the intra-tumor heterogeneity and temporal tumor evolution in breast cancer"
 
+  - title: "Bioinformatics Engineer"
+    school: "GENE Co. Ltd"
+    dates: "Oct 2017 – Jan 2019"
+    projects:
+      - "Developed and maintained tumor analysis toolkits"
+      - "Developed graphical user interfaces (GUIs) for tumor analysis"
+      - "Created local databases for internal staff to match mutations with drug responses"
 
+  - title: "Visiting Student"
+    school: "University of Georgia"
+    dates: "Dec 2016 – Jun 2017"
+    projects:
+      - "Investigated the differences in OGT and OGA between tumor cells and normal cells"
+
+  - title: "Leader of UTIEP"
+    school: "Shanxi Agricultural University "
+    dates: "Sep 2014 – Jul 2017"
+    projects:
+      - "Established fibroblast cell lines from Guangling Donkey"

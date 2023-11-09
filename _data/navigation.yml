@@ -4,20 +4,20 @@ main:
     url: ./#contact 
     right: true 
 
-  - title: "Conferences & Events"
+  - title: "Honors & Awards"
     url: ./#conferences
 
   - title: "Publications"
     url: ./#publications
 
-  - title: "Projects"
+  - title: "Teaching Experience"
+    url: ./#teaching
+
+  - title: "Experiences"
     url: ./#projects
 
   - title: "News"
     url: ./#news
 
-  - title: "Blogs"
-    url: ./blog/
-
-  - title: "Bio"
+  - title: "Home"
     url: ./#about-me
