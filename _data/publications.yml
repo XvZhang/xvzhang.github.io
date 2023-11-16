@@ -1,5 +1,5 @@
 main:
-  - title: "MulMarker: a GPT-assisted comprehensive framework for identifying potential multi-gene prognostic signatures"
+  - title: "MulMarker: a comprehensive framework for identifying multi-gene prognostic signatures"
     authors: "<strong>Xu Zhang</strong>, Lei Chen"
     conference: "2023 International Conference on Bioinformatics and Biomedicine (BIBM)"
     pdf: "./assets/files/multi.pdf"
