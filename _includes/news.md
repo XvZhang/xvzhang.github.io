@@ -2,6 +2,10 @@
 
 <h2 style="margin: 30px 0px 10px;">News</h2>
 
+<p><strong>[1/2024]</strong> Our research paper titled "MulMarker: A Comprehensive Framework for Identifying Multi-Gene Prognostic Signatures" was published by the <em>IEEE Computer Society</em></p>
+
+<p><strong>[12/2023]</strong> I presented our tool, <strong>MulMarker</strong>, at the BIBM conference through an oral presentation</p>
+
 <p><strong>[10/2023]</strong> Our paper for the tool <strong>MulMarker</strong> was accepted by <em>BIBM</em>, and I will have an oral presentation this December</p>
 
 <p><strong>[06/2023]</strong> Our paper of identifying a genome-instability related prognostic signature for lung adenocarcinoma was published in <em>Frontiers in Cell and Developmental Biology</em></p> 
